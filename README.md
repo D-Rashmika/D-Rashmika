@@ -55,8 +55,10 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/dilintha rashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilintha rashmika" height="30" width="40" /></a>
-<a href="https://instagram.com/dilintha_rashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilintha_rashmika" height="30" width="40" /></a>
-<a href="https://discord.gg/#8422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8422" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/dilintha-rashmika-335818260/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+    <a href="https://www.instagram.com/dilintha_rashmika?igsh=M2xmNGo5dGdwYWV5"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+    <a href="https://discord.com/channels/@dilintha"><img src="https://skillicons.dev/icons?i=discord"/> </a>
+  </a>
 </p>
 
